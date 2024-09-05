@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://motostrava.pl/</loc>
+      <lastmod>2024-09-03T17:50:19+00:00</lastmod>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://yourwebsite.com/miejsca/</loc>
+      <lastmod>2024-09-03T17:50:19+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://yourwebsite.com/wydarzenia</loc>
+      <lastmod>2024-09-03T17:50:19+00:00/</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://yourwebsite.com/dodaj/</loc>
+      <lastmod>2024-09-03T17:50:19+00:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://yourwebsite.com/kontakt/</loc>
+      <lastmod>2024-09-03T17:50:19+00:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>
